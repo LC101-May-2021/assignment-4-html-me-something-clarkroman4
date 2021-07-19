@@ -15,7 +15,7 @@ let css = fs.readFileSync(path.resolve(__dirname, "../styles.css"), 'utf8')
 
 describe ("Grading Tests: ", function () {
 
-   let window, container;
+ //  let window, container;
 
    beforeAll(function() {
 
